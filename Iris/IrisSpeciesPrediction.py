@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1, '/Users/jakezur/Documents/boredom-projects/DecisionTreeModel/DecisionTreePackage')
+sys.path.insert(1, '/Users/jakezur/Documents/boredom-projects/DecisionTreeFromScratch/DecisionTreePackage')
 from DecisionTree import DecisionTree
 import pandas as pd
 import random
